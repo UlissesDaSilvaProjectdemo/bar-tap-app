@@ -1,0 +1,6 @@
+POST http://localhost:3000/api/create-tab
+Content-Type: application/json
+
+{
+  "title": "My New Tab"
+}
